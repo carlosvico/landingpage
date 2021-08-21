@@ -1,2 +1,2 @@
-# landingpage
-Desafio VTEX - Criação de uma Landingpage 
+# Landingpage
+Desafio VTEX - Landingpage 
